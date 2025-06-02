@@ -31,13 +31,11 @@ RockyBot is a user-friendly news research tool designed for effortless informati
   pip install -r requirements.txt
 ```
 
-```
 ## Usage/Examples
 
 1. Run the Streamlit app by executing:
 ```bash
 streamlit run main.py
-
 ```
 
 2.The web app will open in your browser.
